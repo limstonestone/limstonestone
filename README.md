@@ -2,9 +2,11 @@
 
 <div align=center>
 
-✨ I'm majoring in statistics in Pusan National University(PNU).   
-✨ I'm interested in Data Science, Deep Learning.
-
+✨ I'm majoring in statistics in Pusan National University(PNU)   
+✨ I'm interested in Data Science, Deep Learning    
+✨ My e-mail address : ehus1118 at gmail dot com
+  
+  
 </div>
 
 <hr>
